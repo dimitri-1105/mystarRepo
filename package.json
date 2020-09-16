@@ -13,5 +13,9 @@
   },
   "author": "Guru99 <guru99@gmail.com> (http://Guru://Guru99.com)",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://githup.com/mstarRepo.git"
+  },
   "description": ""
 }
