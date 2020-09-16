@@ -1,7 +1,6 @@
 {
-  "name": "package",
+  "name": "node_package",
   "version": "1.0.0",
-  "description": "",
   "main": "Addition.js",
   "dependencies": {
     "express": "^4.17.1",
@@ -13,5 +12,6 @@
     "start": "node server.js"
   },
   "author": "Guru99 <guru99@gmail.com> (http://Guru://Guru99.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
